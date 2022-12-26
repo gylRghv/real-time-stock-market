@@ -1,0 +1,6 @@
+['DEV']
+BOOTSTRAP_SERVER='<emr-ip>'
+TOPIC='kafka-stock-market-topic'
+BUCKET_NAME='kafka-stock-market-project-raghav'
+AWS_PROFILE_NAME='raghav_personal'
+STOCK_Prefix='stock_market'
